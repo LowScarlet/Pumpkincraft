@@ -11,8 +11,8 @@ Di Pumpkincraft memungkinkanmu untuk bermain dengan player lain (ya jelaslah yak
 ```yaml
 Main-database:
   IP: 'Pumpkincraft.sytes.net' # IP Utama pumpkincraft
-  Port: '25565' # Default
-  Version: '1.16.5' # Latest Vanila
+  Port: 25565 # Default
+  Version: 1.16.5 # Latest Vanila
   Type: 'Spigot/Paper'
   Date-Created: '7 Februari 2017'
   Current-Season: 6 # 2021
