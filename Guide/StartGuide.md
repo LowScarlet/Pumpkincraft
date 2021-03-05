@@ -21,7 +21,8 @@ contoh
 ```
 Masih ga ngerti gimana cara memasukan command? Begini caranya:
 Klik Tombol `  T  ` atau `  /  ` di Keyboard kamu maka kamu dapat mengetik sesuatu, Ketiklah Commandnya disitu
-#### Jika berhasil kamu seharusnya sudah bisa melakukan chat ke public chat server dengan menggunakan fitur Chat yaitu dengan klik tombol `  T  ` di keyboard, Jika tidak bisa juga.. kemungkinan nick kamu sudah di daftarkan orang lain karena nick kamu dan player tersebut sama, Jika begini kamu di haruskan untuk Menggunakan nick lain Atau kamu ada kendala lain?, kamu bisa bertanya di Group [Discord Server](https://discord.gg/8k8XwP3bPx).
+####
+Jika berhasil kamu seharusnya sudah bisa melakukan chat ke public chat server dengan menggunakan fitur Chat yaitu dengan klik tombol `  T  ` di keyboard, Jika tidak bisa juga.. kemungkinan nick kamu sudah di daftarkan orang lain karena nick kamu dan player tersebut sama, Jika begini kamu di haruskan untuk Menggunakan nick lain Atau kamu ada kendala lain?, kamu bisa bertanya di Group [Discord Server](https://discord.gg/8k8XwP3bPx).
 ## Cara memulai langkah awal di server Pumpkincraft.
 Jika kamu merasa sudah pro banget dalam bermain di server kamu dapat melewatkan ini, tapi jika kamu merasa wawasan kamu masih kurang maka di persilahkan membacanya dengan tulus dan iklas :D.
 ### 1. Jalan jalan di Spawn/Lobby Server Pumpkincraft terlebih dahulu.
