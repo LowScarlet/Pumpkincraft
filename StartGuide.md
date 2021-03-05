@@ -25,3 +25,5 @@ Klik Tombol `  T  ` atau `  /  ` di Keyboard kamu maka kamu dapat mengetik sesua
 Jika kamu merasa sudah pro banget dalam bermain di server kamu dapat melewatkan ini, tapi jika kamu merasa wawasan kamu masih kurang maka di persilahkan membacanya dengan tulus dan iklas :D.
 ### 1. Jalan jalan di Spawn/Lobby Server Pumpkincraft terlebih dahulu.
 Kenapa saya menyarankan ini? karena biar terbiasa aja, soalnya dulu pertama kali saya bermain di server minecraft adalah Melihat lihat berbagai Bangunan dan Hal aneh lainnya seperti ada Teks terbang, Gambar gambar yang ntah dari mana dapatnya bahkan Portal nether yang jika kamu masuk di sana malah bukan ke nether.. Aneh bukan? Itulah kebanyakan server di Minecraft :).
+### 2. Membuka Menu Utama Server.
+Ketika pertama kali memasuki server, kalian pasti binggung apa aja si hal yang bisa di lakukan di Server?, Nah untuk ini kita telah menyediakan suatu command ` /menu ` yang berisi ringkasan semua fitur yang ada, Apakah menu itu berguna?, Tentu saja, kita
