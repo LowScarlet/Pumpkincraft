@@ -14,8 +14,31 @@ Main-database:
   Port: '25565' # Default
   Version: '1.16.5' # Latest Vanila
   Type: 'Spigot/Paper'
-  Owner: 'Low_Scarlet'
   Date-Created: '7 Februari 2017'
   Current-Season: 6 # 2021
   Title-Season: 'Remastered'
+  Leader: 'Low_Scarlet'
+  Staff:
+    Owner:
+      nick: 'Low_Scarlet'
+      fb: 'https://web.facebook.com/tegarmaulana.fahreza/'
+      discord: 'Low_Scarlet#2729'
+    Administrator
+      nick: 'Sahrul'
+      fb: 'Tidak di set'
+      discord: 'Sahrul#6969'
+    Rpg-M:
+      nick: 'CaptNyanta'
+      fb: 'Tidak di set'
+      discord: 'Shiroe#6409'
+    Builder:
+      Leader:
+        nick: 'Thitiput'
+        fb: 'Tidak di set'
+        discord: 'Verthilious#0009'
+      Co-Leader:
+        nick: 'GandhesJingga'
+        fb: 'Tidak di set'
+        discord: 'Gandhes J#9949'
+        
 ```
