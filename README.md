@@ -6,7 +6,6 @@ Di Pumpkincraft memungkinkanmu untuk bermain dengan player lain (ya jelaslah yak
 
 ***Baca juga bagian bawah Logo pumpkincraft ini ya!***
 ![LogoVersi4](https://user-images.githubusercontent.com/64282946/110108695-134e2700-7ddf-11eb-9a71-27d7171c97de.png)
-
 ## Detail Pumpkincraft
 ```yaml
 Main-database:
@@ -42,3 +41,5 @@ Main-database:
         discord: 'Gandhes J#9949'
         
 ```
+## Panduan cara bermain
+[Tutorial cara bermain untuk Newbie](https://github.com/LowScarlet/Pumpkincraft/blob/main/StartGuide.md)
