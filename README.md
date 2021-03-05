@@ -23,7 +23,7 @@ Main-database:
       nick: 'Low_Scarlet'
       fb: 'https://web.facebook.com/tegarmaulana.fahreza/'
       discord: 'Low_Scarlet#2729'
-    Administrator
+    Administrator:
       nick: 'Sahrul'
       fb: 'Tidak di set'
       discord: 'Sahrul#6969'
