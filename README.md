@@ -7,7 +7,7 @@ Di Pumpkincraft memungkinkanmu untuk bermain dengan player lain (ya jelaslah yak
 ***Baca juga bagian bawah Logo pumpkincraft ini ya!***
 ![LogoVersi4](https://user-images.githubusercontent.com/64282946/110108695-134e2700-7ddf-11eb-9a71-27d7171c97de.png)
 ## Detail Pumpkincraft
-Data raw untuk server pumpkincraft, format file ini adalah .yml, saya yakin kamu dapat mengerti dengan cepat karena ekstensi file ini sangatlah mudah di gunakan!.
+Data raw untuk server pumpkincraft, format file ini adalah .yml, saya yakin kamu dapat mengerti dengan cepat karena ekstensi file ini sangatlah mudah di mengerti!.
 ```yaml
 Main-database:
   IP: 'Pumpkincraft.sytes.net' # IP Utama pumpkincraft
