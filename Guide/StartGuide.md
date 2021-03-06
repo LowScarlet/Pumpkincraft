@@ -39,11 +39,11 @@ Ketika kamu ingin melakukan Sesuatu pastikan ya kamu berada di Warp yang benar, 
 ```vb
 Disini kita menyediakan Suatu World khusus untuk kamu Mencari Bahan-bahan(resource) untuk membangun Rumah agar lebih mudah, Kamu tidak perlu khawatir akan Kehabisan Resource pada World ini karena kita akan Mereset World ini setiap Bulannya
 ```
-**Overworld World:**
+**Pumpkin Earth:**
 ```vb
 World ini adalah World Utama Server untuk Kamu Membangun Rumah/Base, World ini dilengkapi dengan Fitur Protect Untuk MemProtect Rumah kalian dari Player lain
 ```
 
 ### 4. Cara Memproteksi Rumah/Base.
-Kamu seharusnya sudah Mengetahui bahwa di *Overworld World* Kita menyediakan Fitur Protect, Kali ini Kita akan belajar Bagaiman Cara Memproteksi Rumah/Base, Silahkan Simak Cara Diabawah Ini
+Kamu seharusnya sudah Mengetahui bahwa di *Pumpkin Earth* Kita menyediakan Fitur Protect, Kali ini Kita akan belajar Bagaiman Cara Memproteksi Rumah/Base, Silahkan Simak Cara Diabawah Ini
 > 1. Pertama kamu harus Memiliki Wooden Hoe untuk Memproteksi Rumah, Wooden Hoe Disediakan Gratis Di ` /kit ` lalu Pilih bagian "Red Protect" Klik dan Ambil lah Wooden Hoe yang Tersedia di Slot tersebut
