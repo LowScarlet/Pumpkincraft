@@ -43,3 +43,7 @@ Disini kita menyediakan Suatu World khusus untuk kamu Mencari Bahan-bahan(resour
 ```vb
 World ini adalah World Utama Server untuk Kamu Membangun Rumah/Base, World ini dilengkapi dengan Fitur Protect Untuk MemProtect Rumah kalian dari Player lain
 ```
+
+### 4. Cara Memproteksi Rumah/Base.
+Kamu seharusnya sudah Mengetahui bahwa di *Overworld World* Kita menyediakan Fitur Protect, Kali ini Kita akan belajar Bagaiman Cara Memproteksi Rumah/Base, Silahkan Simak Cara Diabawah Ini
+> 1. Pertama kamu harus Memiliki Wooden Hoe untuk Memproteksi Rumah, Wooden Hoe Disediakan Gratis Di ` /kit ` lalu Pilih bagian "RedProtect"
