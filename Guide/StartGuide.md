@@ -16,7 +16,9 @@ IP Yang di atas merupakan IP utama server sejak 2017 (Versi 1.12.2 Open test), M
 Setelah kamu masuk dalam server Pumpkincraft dari 3 Langkah terakhir tadi, maka setelah itu kamu harus mendaftarkan Nickmu ke Server dengan password menggunakan command:
 ```vb
 /register <password> <masukan kembali password>
+```
 contoh
+```vb
 /register pumpkincraft pumpkincraft
 ```
 Masih ga ngerti gimana cara memasukan command? Begini caranya:
