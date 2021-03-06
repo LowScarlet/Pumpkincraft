@@ -32,9 +32,10 @@ Kenapa saya menyarankan ini? karena biar terbiasa aja, soalnya dulu pertama kali
 ### 2. Membuka Menu Utama Server.
 Ketika pertama kali memasuki server, kamu pasti binggung apa aja si hal yang bisa di lakukan di Server?, Nah untuk ini kita telah menyediakan suatu command ` /menu ` yang berisi ringkasan semua fitur yang ada, Apakah menu itu berguna?, Tentu saja, kita dapat menggunakan menu untuk membuka suatu command yang ada tanpa perlu mengetik commandnya lagi, hanya perlu membuka Menu melalui command ` /menu `
 ### 3. Melihat Warp Yang Ada.
-Ketika kamu ingin melakukan Sesuatu pastikan ya kamu berada di Warp yang benar, Untuk pertama kali kita menyarankan kamu untuk membuka Warp dengan command ` /warp ` untuk mengetahui Warp apa aja si yang ada di Server Ini!, Pastikan kamu juga telah membaca deskripsi dari Warp tersebut yang telah di Berikan Owner dengan penjelasan yang Jelas, Kami akan memberikan beberapa List singkat tentang Warp utama pada Server Ini
+Ketika kamu ingin melakukan Sesuatu pastikan ya kamu berada di Warp yang benar, Untuk pertama kali kita menyarankan kamu untuk membuka Warp dengan command ` /warp ` untuk mengetahui Warp apa aja si yang ada di Server Ini!, Pastikan kamu juga telah membaca deskripsi dari Warp tersebut yang telah di Berikan Owner dengan penjelasan yang Jelas, Kami akan memberikan beberapa List singkat tentang Warp utama pada Server Ini.
 </br>
-**Resource World**
+</br>
+**Resource World:**
 ```vb
 Disini kita menyediakan Suatu World khusus untuk kamu Mencari Bahan-bahan(resource) untuk membangun Rumah agar lebih mudah, Kamu tidak perlu khawatir akan Kehabisan Resource pada World ini karena kita akan Mereset World ini setiap Bulannya
 ```
