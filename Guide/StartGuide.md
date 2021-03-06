@@ -47,3 +47,6 @@ World ini adalah World Utama Server untuk Kamu Membangun Rumah/Base, World ini d
 ### 4. Cara Memproteksi Rumah/Base.
 Kamu seharusnya sudah Mengetahui bahwa di *Pumpkin Earth* Kita menyediakan Fitur Protect, Kali ini Kita akan belajar Bagaiman Cara Memproteksi Rumah/Base, Silahkan Simak Cara Diabawah Ini
 > 1. Pertama kamu harus Memiliki Wooden Hoe untuk Memproteksi Rumah, Wooden Hoe Disediakan Gratis Di ` /kit ` lalu Pilih bagian "Red Protect" Klik dan Ambil lah Wooden Hoe yang Tersedia di Slot tersebut
+> 2. Carilah Lokasi yang Sesuai untuk dijadikan Lahan Rumah/Base, Pastikan tidak terlalu Mepet dengan Lahan Player lain
+> 3. Pegang Wooden Hoe Tersebut, Lalu Klik Kiri Pada Ujung Block yang ingin diproteksi dan Klik Kanan Pada Ujung Lain Block
+> 4. Ketikan Command ` /rp claim ` untuk Memulai Memproteksi Lahan yang telah di Tandai 
