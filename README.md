@@ -42,5 +42,5 @@ Main-database:
         discord: 'Gandhes J#9949'
         
 ```
-## Panduan cara bermain
+## Panduan cara bermain.
 1. [NEWBIE] [STARTGUIDE] [Tutorial cara bermain untuk Newbie](https://github.com/LowScarlet/Pumpkincraft/blob/279efd140e56b17992718e6c8d8a0bce475df9ac/Guide/StartGuide.md).
