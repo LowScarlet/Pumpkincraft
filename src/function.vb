@@ -29,8 +29,20 @@ function SaveSimpleValueYaml(p: offline player, path: text, location: text, valu
 		load yaml "%{_location}%" as "%{_location}%"
 	if {_value} is number:
 		set {_value} to floor({_value})
-	send "%{_value}%" to console
 	set yaml value "%{_path}%" from "%{_location}%" to {_value}
+	save "%{_location}%"
+
+function EditSimpleValueYaml(p: offline player, path: text, location: text, type: text, value: object):
+	if yaml "%{_location}%" is not loaded:
+		load yaml "%{_location}%" as "%{_location}%"
+	if {_value} is number:
+		set {_value} to floor({_value})
+	set {_currentvalue} to GetSimpleLoopValueYaml({_p}, "%{_path}%", "%{_location}%")
+	if {_type} is "add":
+		set {_finalvalue} to {_currentvalue}+{_value}
+	else if {_type} is "remove":
+		set {_finalvalue} to {_currentvalue}-{_value}
+	set yaml value "%{_path}%" from "%{_location}%" to {_finalvalue}
 	save "%{_location}%"
 
 function Guiborder_chest(p: player, type: text):
